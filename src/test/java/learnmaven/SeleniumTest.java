@@ -8,6 +8,9 @@ public class SeleniumTest {
 	public void BrowserAutomation() 
 	{
 		System.out.println("BrowserAutomation");
+		
+		//changes done by GITX
+		System.out.println("WebAutomation");
 	}
 	
 	@Test
