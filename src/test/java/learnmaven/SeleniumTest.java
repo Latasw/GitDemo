@@ -18,5 +18,12 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUI");
 	}
+	
+	//changes done Develop branch
+	@Test
+	public void elementsUI1() 
+	{
+		System.out.println("elementsUI1");
+	}
 }
 

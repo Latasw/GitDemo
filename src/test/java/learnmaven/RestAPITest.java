@@ -23,5 +23,11 @@ public class RestAPITest {
 	{
 		System.out.println("deleteTwitter");
 	}
-
+	
+	//changes done Develop branch
+	@Test
+	public void deleteTwitter2()
+	{
+		System.out.println("deleteTwitter2");
+	}
 }
